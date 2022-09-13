@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marek Varga
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning Advanced React
